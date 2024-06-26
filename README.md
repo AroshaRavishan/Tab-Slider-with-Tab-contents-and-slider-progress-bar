@@ -2,6 +2,17 @@
 
 This repository contains a custom React component that displays a dynamic carousel using the `@splidejs/react-splide` library. The carousel features two main sliders: one for selecting categories and another for displaying content slides based on the selected category.
 
+## Previews
+
+### Video Preview
+
+[![Watch the video](https://github.com/AroshaRavishan/Tab-Slider-with-Tab-contents-and-slider-progress-bar-NextJS-React/blob/main/sample%20Preview.png)](https://github.com/AroshaRavishan/Tab-Slider-with-Tab-contents-and-slider-progress-bar-NextJS-React/raw/main/Preview%20Video.mp4)
+
+### Image Preview
+
+![Sample Preview](https://github.com/AroshaRavishan/Tab-Slider-with-Tab-contents-and-slider-progress-bar-NextJS-React/blob/main/sample%20Preview.png)
+
+
 ## Features
 
 - **Category Slider**: Displays various categories such as Information Technology, Business, Management, Administration, Project Management, HR & Leadership, and Sales & Marketing.
