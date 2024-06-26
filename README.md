@@ -6,7 +6,7 @@ This repository contains a custom React component that displays a dynamic carous
 
 ### Video Preview
 
-[![Watch the video](https://github.com/AroshaRavishan/Tab-Slider-with-Tab-contents-and-slider-progress-bar-NextJS-React/blob/main/sample%20Preview.png)](https://github.com/AroshaRavishan/Tab-Slider-with-Tab-contents-and-slider-progress-bar-NextJS-React/raw/main/Preview%20Video.mp4)
+[![Click on the Image to Download the video](https://github.com/AroshaRavishan/Tab-Slider-with-Tab-contents-and-slider-progress-bar-NextJS-React/blob/main/sample%20Preview.png)](https://github.com/AroshaRavishan/Tab-Slider-with-Tab-contents-and-slider-progress-bar-NextJS-React/raw/main/Preview%20Video.mp4)
 
 ### Image Preview
 
