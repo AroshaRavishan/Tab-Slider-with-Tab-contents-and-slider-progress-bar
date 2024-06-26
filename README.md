@@ -8,11 +8,6 @@ This repository contains a custom React component that displays a dynamic carous
 
 [![Click on the Image to Download the video](https://github.com/AroshaRavishan/Tab-Slider-with-Tab-contents-and-slider-progress-bar-NextJS-React/blob/main/sample%20Preview.png)](https://github.com/AroshaRavishan/Tab-Slider-with-Tab-contents-and-slider-progress-bar-NextJS-React/raw/main/Preview%20Video.mp4)
 
-### Image Preview
-
-![Sample Preview](https://github.com/AroshaRavishan/Tab-Slider-with-Tab-contents-and-slider-progress-bar-NextJS-React/blob/main/sample%20Preview.png)
-
-
 ## Features
 
 - **Category Slider**: Displays various categories such as Information Technology, Business, Management, Administration, Project Management, HR & Leadership, and Sales & Marketing.
