@@ -143,7 +143,9 @@ const Carousel = () => {
     // Splide options for category slider
     const categorySplideOptions = {
         type: 'slide',
-        perPage: 4,
+        perPage : 4.5,
+        focus : 'left',
+        trimSpace: false,
         arrows: false,
         pagination: false,
         gap: '1rem',
