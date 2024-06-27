@@ -145,7 +145,7 @@ const Carousel = () => {
         type: 'slide',
         perPage : 4.5,
         focus : 'left',
-        trimSpace: false,
+        trimSpace: true,
         arrows: false,
         pagination: false,
         gap: '1rem',
