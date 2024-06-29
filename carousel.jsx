@@ -225,13 +225,13 @@ const Carousel = () => {
                                 </div>
                             </button>
                         )}
-                        <div className="mx-10">
+                        <div className="mx-10 relative">
                             <Splide options={categorySplideOptions} ref={categorySplideRef}>
                                 {categories.map((category, index) => (
                                     <SplideSlide key={index}>
-                                        <div className="my-3 lg:my-5 flex justify-center">
+                                        <div className="my-3 lg:my-5 flex justify-center w-full">
                                             <div
-                                                className={`text-base font-medium rounded-lg w-max py-2.5 px-8 border cursor-pointer text-nowrap ${activeCategory === category.name
+                                                className={`text-base font-medium rounded-lg w-full text-center py-2.5 px-8 border cursor-pointer text-nowrap overflow-hidden ${activeCategory === category.name
                                                     ? 'text-black-900 bg-green-200 border-green-200'
                                                     : 'text-black-900 bg-white border-gray-300'
                                                     }`}
